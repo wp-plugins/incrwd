@@ -1,2 +1,2 @@
 <?php
-define('INCRWD_LOCAL', true);
+define('INCRWD_LOCAL', false);
