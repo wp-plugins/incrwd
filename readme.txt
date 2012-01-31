@@ -3,7 +3,7 @@ Contributors: incrwd, aduston
 Tags: reward, gamification, game mechanics, facebook, comments, free, giveaway, plugin, loyalty, widget, sidebar, twitter
 Requires at least: 3.0
 Tested up to: 1.0.2
-Stable tag: 1.1.9
+Stable tag: 1.2.0.0
 
 Incrwd is a powerful yet incredibly simple loyalty program for blogs that helps increase pageviews, visits, shares, and comments. 
 
@@ -57,7 +57,7 @@ We are working hard to support as many sharing options as possible. Currently, w
 * Twitter Button (We supoort all versions except the iFrame version)
 * Google Plus button
 
-For a complete sharing solution we recommend that you install **[AddThis](http://www.addthis.com)** as your sharing solution. 
+For a complete sharing solution we recommend that you install the default version of **[www.addthis.com](http://www.addthis)**. Please note that we only support the default version of addThis. To make sure you have the default version please go to your wordpress settings tab, select AddThis, click on the "more options" link, and then choose the 5th or 6th setting down. Do this for both the above the post sharing tool and the below sharing tool. 
 
 To Quickly install an XFBML or HTML5 version of the FB Like button please follow **[this link](http://bit.ly/yfDwGM)** and:
 
